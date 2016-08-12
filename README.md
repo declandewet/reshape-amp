@@ -1,2 +1,2 @@
 # reshape-amp
-Reshape plugin for Google Accelerated Mobile Pages
+[Reshape](https://github.com/reshape/reshape) plugin for Google Accelerated Mobile Pages
